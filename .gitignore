@@ -1,12 +1,7 @@
-__pycache__/
-*.pyc
-.venv/
-
-# Credentials
 .cdsapirc
-
-# Large raw downloads
-data/boundaries/*.zip
 data/era5_daily/*.nc
-outputs/
+data/boundaries/*.zip
+__pycache__/
+.venv/
 .DS_Store
+
